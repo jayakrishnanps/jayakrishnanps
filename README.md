@@ -1,70 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e24,75:21262d,100:30363d&height=200&section=header&text=Jayakrishnan%20PS&fontSize=44&fontColor=e6edf3&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Tooling%20%E2%80%A2%20UI/UX&descSize=14&descColor=8b949e&descAlignY=56&animation=fadeIn" width="100%" />
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Jayakrishnan%20PS&fontSize=48&fontColor=e6edf3&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Full-Stack+%7C+MERN+%7C+Next.js+%7C+Django;AI+Tooling+%7C+UI%2FUX+Design;Building+tools+that+solve+real+problems)](https://github.com/jayakrishnanps)
+<br/>
+
+<!-- TYPING INTRO — styled after TypeIt + ParticleJS aesthetic -->
+<a href="https://github.com/jayakrishnanps">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=55&lines=%24+whoami;Jayakrishnan+PS;%24+cat+skills.txt;Full-Stack+%E2%94%82+MERN+%E2%94%82+Next.js+%E2%94%82+Django;%24+cat+interests.txt;AI+Tooling+%E2%94%82+UI%2FUX+Design" alt="Typing SVG" />
+</a>
 
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- TECH STACK -->
 
-<h3 align="center">Tech Stack</h3>
-
-<div align="center">
+<h3 align="center">── 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 ──</h3>
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="25%"><b>Languages</b></td>
-<td align="center" width="25%"><b>Frontend</b></td>
-<td align="center" width="25%"><b>Backend</b></td>
-<td align="center" width="25%"><b>Tools & Design</b></td>
-</tr>
-<tr>
-<td align="center">
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,astro,django&perline=7&theme=dark" />
+</a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<br/><br/>
 
-</td>
-<td align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-
-</td>
-<td align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</td>
-</tr>
-</table>
-
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,git,github,figma&perline=7&theme=dark" />
+</a>
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- FEATURED PROJECTS -->
 
-<h3 align="center">Featured Projects</h3>
+<h3 align="center">── 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ──</h3>
 
 <br/>
 
@@ -74,34 +50,36 @@
 <td width="50%" valign="top">
 
 <h3 align="center">
-  <a href="https://github.com/jayakrishnanps/orbit-ai">Orbit AI</a>
+  <a href="https://github.com/jayakrishnanps/orbit-ai">𝙾𝚛𝚋𝚒𝚝 𝙰𝙸</a>
 </h3>
 
 <div align="center">
 
-<a href="https://github.com/jayakrishnanps/orbit-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jayakrishnanps&repo=orbit-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" width="100%" /></a>
+<a href="https://github.com/jayakrishnanps/orbit-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jayakrishnanps&repo=orbit-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" /></a>
 
 </div>
 
 <p align="center">
-<sub>AI-powered coding assistant — a Cursor / Antigravity alternative built with TypeScript</sub>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/jayakrishnanps/orbit-ai?style=flat-square&color=58a6ff&label=Updated" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3 align="center">
-  <a href="https://github.com/jayakrishnanps/Ascent">Ascent</a>
+  <a href="https://github.com/jayakrishnanps/Ascent">𝙰𝚜𝚌𝚎𝚗𝚝</a>
 </h3>
 
 <div align="center">
 
-<a href="https://github.com/jayakrishnanps/Ascent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jayakrishnanps&repo=Ascent&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" width="100%" /></a>
+<a href="https://github.com/jayakrishnanps/Ascent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jayakrishnanps&repo=Ascent&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" /></a>
 
 </div>
 
 <p align="center">
-<sub>Gamification-based productivity app for Android, built with Kotlin</sub>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/jayakrishnanps/Ascent?style=flat-square&color=58a6ff&label=Updated" />
 </p>
 
 </td>
@@ -109,37 +87,31 @@
 </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GITHUB STATS -->
+<!-- GITHUB ANALYTICS -->
 
-<h3 align="center">GitHub Analytics</h3>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayakrishnanps&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true" />
-  </picture>
-  &nbsp;
-  <picture>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakrishnanps&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-  </picture>
-</div>
+<h3 align="center">── 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 ──</h3>
 
 <br/>
 
 <div align="center">
   <picture>
-    <img src="https://streak-stats.demolab.com?user=jayakrishnanps&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=58a6ff" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakrishnanps&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  </picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <img height="180" src="https://streak-stats.demolab.com?user=jayakrishnanps&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=58a6ff" />
   </picture>
 </div>
 
----
+<br/>
 
-<!-- CONTRIBUTION GRAPH -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">Contribution Activity</h3>
+<!-- CONTRIBUTION ACTIVITY -->
+
+<h3 align="center">── 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 ──</h3>
 
 <br/>
 
@@ -153,10 +125,10 @@
 
 <div align="center">
   <a href="https://github.com/jayakrishnanps/MyLeetcodeJourney">
-    <img src="https://img.shields.io/badge/LeetCode_Journey-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎_𝙹𝚘𝚞𝚛𝚗𝚎𝚢-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e24,75:21262d,100:30363d&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:58a6ff,50:161b22,100:0d1117&height=150&section=footer" width="100%" />
