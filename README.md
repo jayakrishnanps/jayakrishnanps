@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Jayakrishnan%20PS&fontSize=48&fontColor=e6edf3&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%" />
 
 <br/>
 
-<!-- TYPING INTRO — styled after TypeIt + ParticleJS aesthetic -->
 <a href="https://github.com/jayakrishnanps">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=55&lines=%24+whoami;Jayakrishnan+PS;%24+cat+skills.txt;Full-Stack+%E2%94%82+MERN+%E2%94%82+Next.js+%E2%94%82+Django;%24+cat+interests.txt;AI+Tooling+%E2%94%82+UI%2FUX+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=55&lines=Jayakrishnan+PS;Full-Stack+%E2%94%82+MERN+%E2%94%82+Next.js+%E2%94%82+Django;AI+Tooling+%E2%94%82+UI%2FUX+Design" alt="Typing SVG" />
 </a>
 
 </div>
