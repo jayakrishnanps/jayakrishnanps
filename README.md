@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Jayakrishnan%20PS&fontSize=48&fontColor=e6edf3&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%" />
+<img src="gifs/jk01.gif" width="400" alt="Animated Blob" />
 
 <br/>
 
