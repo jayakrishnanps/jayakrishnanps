@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="gifs/jk01.gif" width="400" alt="Animated Blob" />
+<img src="gifs/jk01.gif" width="200" alt="Animated Blob" />
 
 <br/>
 
